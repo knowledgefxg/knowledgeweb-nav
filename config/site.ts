@@ -858,6 +858,12 @@ export const NavData: NavData[] = [
         link: "https://www.cnblogs.com"
       },
       {
+        title: "DEV Community",
+        icon: "https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png", 
+        desc: "软件开发人员的建设性和包容性社区",
+        link: "https://dev.to"
+      },
+      {
         title: "知乎",
         icon: "https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.362a8eac.png",
         desc: "中文互联网高质量的问答社区和创作者聚集的原创内容平台",
