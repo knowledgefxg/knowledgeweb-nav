@@ -5,8 +5,8 @@ export const siteConfig = {
   description: "基于 Next.js 的前端导航网站",
   mainNav: [],
   links: {
-    twitter: "https://twitter.com/liwenka1",
-    github: "https://github.com/liwenka1/next-web-nav"
+    twitter: "https://x.com/knowledgefxg",
+    github: "https://github.com/knowledgefxg"
   }
 }
 
