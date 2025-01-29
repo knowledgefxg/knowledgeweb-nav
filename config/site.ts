@@ -31,10 +31,10 @@ export const NavData: NavData[] = [
     title: "常用工具",
     items: [
       {
-        icon: "https://caniuse.com/img/favicon-128.png",
-        title: "Can I use",
-        desc: "前端 API 兼容性查询",
-        link: "https://caniuse.com"
+        icon: "https://pythontutor.com/favicon.ico",
+        title: "Python Tutor",
+        desc: "一个蛮实用的针对初学者和开发者的代码可视化学习工具",
+        link: "https://pythontutor.com/"
       },
       {
         icon: "https://tinypng.com/images/apple-touch-icon.png",
