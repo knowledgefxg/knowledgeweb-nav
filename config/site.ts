@@ -90,12 +90,12 @@ export const NavData: NavData[] = [
         desc: "API 文档、API 调试、API Mock、API 自动化测试",
         link: "https://www.apifox.cn/"
       },
-	{
-        icon: "https://cn.pornhub.com/favicon.ico",
-        title: "Pornhub",
-        desc: "世界上最大的学习网站。",
-        link: "https://cn.pornhub.com/"
-      }
+      {
+        icon: "https://it-tools.tech/favicon.ico",
+        title: "IT-Tools",
+        desc: "为开发人员提供的便捷在线工具集合",
+        link: "https://it-tools.tech/"
+      },
     ]
   },
 
