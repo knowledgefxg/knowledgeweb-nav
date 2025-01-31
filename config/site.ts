@@ -667,37 +667,19 @@ export const NavData: NavData[] = [
     ]
   },
   {
-    title: "跨平台",
+    title: "AI相关",
     items: [
       {
-        title: "Electron",
-        desc: "使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序",
-        icon: "/icons/electron.ico",
-        link: "https://www.electronjs.org/"
+        title: "Toolify.ai",
+        desc: "可以说是最大的人工智能导航网站,持续收录各种AI工具(包括浏览器插件,网站,APP等等)涵盖写作，图像，视频，音频等方方面面，基本上有你所想要的一切，网站支持中文！",
+        icon: "https://www.toolify.ai/favicon.ico",
+        link: "https://www.toolify.ai/zh/"
       },
       {
-        title: "Tauri",
-        desc: "Tauri是一个框架，用于为所有主要桌面平台构建小巧、快速的二进制文件",
-        icon: "https://tauri.app/meta/favicon-96x96.png",
-        link: "https://tauri.app/"
-      },
-      {
-        title: "Flutter",
-        desc: "Flutter 是 Google 开源的应用开发框架，仅通过一套代码库，就能构建精美的、原生平台编译的多平台应用",
-        icon: "https://flutter.cn/assets/images/cn/flutter-icon.png",
-        link: "https://flutter.cn/"
-      },
-      {
-        title: "Uni-app",
-        desc: "uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/QQ/快手/钉钉/淘宝）、快应用等多个平台",
-        icon: "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-a90b5f95-90ba-4d30-a6a7-cd4d057327db/d23e842c-58fc-4574-998d-17fdc7811cc3.png",
-        link: "https://uniapp.dcloud.io/"
-      },
-      {
-        title: "Taro",
-        desc: "Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发 微信 / 京东 / 百度 / 支付宝 / 字节跳动 / QQ / 飞书 小程序 / H5 / RN 等应用",
-        icon: "/icons/taro.png",
-        link: "https://taro.jd.com"
+        title: "AI全栈导师",
+        desc: "网站利用GPT的技术，只要输入你的学习目标，AI就能够分析你的学习目标，为你生成合适的教程大纲。比自己去读官方文档或者找各种文档教程友好多了。",
+        icon: "https://www.studywithgpt.com/favicon.ico",
+        link: "https://www.studywithgpt.com/zh-cn"
       }
     ]
   },
