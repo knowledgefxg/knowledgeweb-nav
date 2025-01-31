@@ -39,7 +39,7 @@
 
 ## 预览地址
 
-- [前端导航](https://nav.liwenkai.fun)
+- [前端导航](https://www.knowledgenav.dev/)
 
 ## 功能介绍
 
