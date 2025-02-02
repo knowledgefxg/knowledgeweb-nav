@@ -663,6 +663,12 @@ export const NavData: NavData[] = [
         desc: "一个动态生成的可自定义 SVG 打字效果",
         icon: "/icons/typing-svg.png",
         link: "https://readme-typing-svg.herokuapp.com/demo/"
+      },
+			{
+        title: "AI / LLM 模型图标集",
+        desc: "585+ 免费矢量图标，覆盖主流 AI 品牌和模型, 支持 React / SVG / PNG / WebP",
+        icon: "https://lobehub.com/favicon-32x32.png",
+        link: "https://lobehub.com/zh/icons"
       }
     ]
   },
