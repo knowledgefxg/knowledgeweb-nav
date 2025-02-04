@@ -49,6 +49,12 @@ export const NavData: NavData[] = [
         link: "https://tool.lu"
       },
       {
+        icon: "https://openalternative.co/favicon.png",
+        title: "OpenAlternative",
+        desc: "网站致力于收集一些免费开源软件，这些软件可以替代市面上流行的专有软件。",
+        link: "https://openalternative.co/"
+      },	    
+      {
         icon: "https://processon.com/favicon.ico",
         title: "ProcessOn",
         desc: "免费在线流程图思维导图",
