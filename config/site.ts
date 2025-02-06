@@ -106,6 +106,54 @@ export const NavData: NavData[] = [
   },
 
   {
+    title: "英语学习",
+    items: [
+      {
+        title: "Duolingo",
+        desc: "游戏化语言学习App，适合入门和日常练习",
+        icon: "https://d35aaqx5ub95lt.cloudfront.net/favicon.ico",
+        link: "https://www.duolingo.com/"
+      },
+      {
+        title: "Vocabulary.com",
+        desc: "通过游戏化方式学习词汇的智能平台",
+        icon: "https://cdn.vocabulary.com/images/favicons/favicon-32x32-2frmtt.png",
+        link: "https://www.vocabulary.com/"
+      },
+      {
+        title: "Enpuz",
+        desc: "一款英语学习 AI 小工具，主要是在线英语句子语法分析",
+        icon: "https://enpuz.com/favicon.ico",
+        link: "https://enpuz.com/"
+      },
+      {
+        title: "BBC Learning English",
+        desc: "BBC出品的免费英语学习资源库",
+        icon: "https://www.bbc.com/bbcx/favicon-16x16.png",
+        link: "https://www.bbc.co.uk/learningenglish"
+      },
+      {
+        title: "LingoHut",
+        desc: "免费的分类词汇学习网站，配真人发音和练习",
+        icon: "https://www.lingohut.com/html/lht/fb-icon-2-min.png",
+        link: "https://www.lingohut.com/"
+      },
+      {
+        title: "VoiceTube",
+        desc: "看视频学英语，支持各种字幕和难度分级",
+        icon: "https://vt-cdn.voicetube.com/assets/img/logo/favicon/32.png",
+        link: "https://www.voicetube.com/"
+      },
+      {
+        title: "Youglish",
+        desc: "通过YouTube视频片段学习英语单词的真实发音",
+        icon: "https://youglish.com/images/logo.png",
+        link: "https://youglish.com/"
+      }
+    ]
+  },		
+
+  {
     title: "React",
     items: [
       {
@@ -687,6 +735,12 @@ export const NavData: NavData[] = [
         icon: "https://www.toolify.ai/favicon.ico",
         link: "https://www.toolify.ai/zh/"
       },
+      {
+        title: "Backyard AI",
+        desc: "提供各种角色扮演AI，免费，无需注册登录，支持Mac，Windows。",
+        icon: "https://backyard.ai/favicon.png",
+        link: "https://backyard.ai/"
+      },	    
       {
         title: "AI全栈导师",
         desc: "网站利用GPT的技术，只要输入你的学习目标，AI就能够分析你的学习目标，为你生成合适的教程大纲。比自己去读官方文档或者找各种文档教程友好多了。",
