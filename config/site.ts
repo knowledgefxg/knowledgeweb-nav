@@ -37,6 +37,12 @@ export const NavData: NavData[] = [
         link: "https://pythontutor.com/"
       },
       {
+        icon: "https://voyager.postman.com/logo/postman-logo-icon-orange.svg",
+        title: "Postman",
+        desc: "老牌API开发和测试工具",
+        link: "https://www.postman.com/"
+      },	    
+      {
         icon: "https://tinypng.com/images/apple-touch-icon.png",
         title: "TinyPNG",
         desc: "在线图片压缩工具",
