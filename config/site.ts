@@ -752,7 +752,13 @@ export const NavData: NavData[] = [
         desc: "网站利用GPT的技术，只要输入你的学习目标，AI就能够分析你的学习目标，为你生成合适的教程大纲。比自己去读官方文档或者找各种文档教程友好多了。",
         icon: "https://www.studywithgpt.com/favicon.ico",
         link: "https://www.studywithgpt.com/zh-cn"
-      }
+      },
+      {
+        title: "AnythingLLM",
+        desc: "您一直在寻找的全方位AI应用程序。",
+        icon: "https://framerusercontent.com/images/EIbT8RYrTi16Lw425LfvWGrnqg.svg",
+        link: "https://anythingllm.com/"
+      }, 	    
     ]
   },
   {
