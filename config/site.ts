@@ -809,41 +809,6 @@ export const NavData: NavData[] = [
     ]
   },
   {
-    title: "代码托管",
-    items: [
-      {
-        title: "Github",
-        icon: "/icons/github.ico",
-        desc: "一个面向开源及私有软件项目的托管平台",
-        link: "https://github.com"
-      },
-      {
-        title: "Gitee",
-        desc: "Gitee 是中国领先的基于 Git 的代码托管平台，类似于全球知名的 GitHub",
-        icon: "/icons/gitee.ico",
-        link: "https://gitee.com/"
-      },
-      {
-        title: "Gitlab",
-        desc: "更快地交付安全代码，部署到任何云，并推动业务成果",
-        icon: "https://gitlab.com/uploads/-/system/group/avatar/6543/logo-extra-whitespace.png?width=64",
-        link: "https://gitlab.com/"
-      },
-      {
-        title: "Gitea",
-        desc: "Gitea 是一个开源社区驱动的轻量级代码托管解决方案，后端采用 Go 编写，采用 MIT 许可证.",
-        icon: "https://gitea.io/images/favicon.png",
-        link: "https://gitea.io/"
-      },
-      {
-        title: "Coding",
-        desc: "提供一站式研发管理平台及云原生开发工具，让软件研发如同工业生产般简单高效，助力企业提升研发管理效能",
-        icon: "/icons/coding.png",
-        link: "https://coding.net/"
-      }
-    ]
-  },
-  {
     title: "网站托管",
     items: [
       {
