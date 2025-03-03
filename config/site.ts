@@ -592,41 +592,6 @@ export const NavData: NavData[] = [
     ]
   },
   {
-    title: "前端文档",
-    items: [
-      {
-        icon: "https://developer.mozilla.org/apple-touch-icon.6803c6f0.png",
-        title: "MDN | Web 开发者指南",
-        desc: "Mozilla 的开发者平台，提供了大量关于 HTML、CSS 和 JavaScript 的详细文档以及广泛的 Web API 参考资料",
-        link: "https://developer.mozilla.org/zh-CN"
-      },
-      {
-        icon: "https://static.runoob.com/images/favicon.ico",
-        title: "菜鸟教程",
-        desc: "学的不仅是技术，更是梦想！",
-        link: "https://www.runoob.com"
-      },
-      {
-        icon: "/icons/es6.png",
-        title: "ES6 入门教程",
-        desc: "《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性",
-        link: "https://es6.ruanyifeng.com/"
-      },
-      {
-        icon: "/icons/typescript.png",
-        title: "深入理解 TypeScript",
-        desc: "《TypeScript Deep Dive》 是一本很好的开源书，从基础到深入，很全面的阐述了 TypeScript 的各种魔法",
-        link: "https://jkchao.github.io/typescript-book-chinese/"
-      },
-      {
-        icon: "/icons/rust.svg",
-        title: "Rust语言圣经",
-        desc: "一份高质量 Rust 教程",
-        link: "https://course.rs"
-      }
-    ]
-  },
-  {
     title: "UI设计",
     items: [
       {
