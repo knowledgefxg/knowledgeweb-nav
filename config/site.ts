@@ -470,7 +470,13 @@ export const NavData: NavData[] = [
         desc: "创建调色板",
         icon: "/icons/coolors.png",
         link: "https://coolors.co/"
-      }
+      },
+      {
+        title: "Css Tip",
+        desc: "一个CSS 技巧和提示分享网站，提供各种实用的 CSS 代码示例",
+        icon: "https://css-tip.com/img/fav.png",
+        link: "https://css-tip.com/"
+      }		    
     ]
   },
   {
@@ -723,7 +729,13 @@ export const NavData: NavData[] = [
         desc: "您一直在寻找的全方位AI应用程序。",
         icon: "https://framerusercontent.com/images/EIbT8RYrTi16Lw425LfvWGrnqg.svg",
         link: "https://anythingllm.com/"
-      }, 	    
+      },
+      {
+        title: "Colorify Rocks",
+        desc: "基于人工智能的文本到色彩调色板生成器",
+        icon: "https://colorify.rocks/favicon-16x16.png",
+        link: "https://colorify.rocks/"
+      },	    
     ]
   },
   {
@@ -829,6 +841,18 @@ export const NavData: NavData[] = [
         desc: "面向全球中文开发者的技术内容分享与交流平台",
         link: "https://juejin.cn"
       },
+      {
+        title: "Hacker News",
+        icon: "https://news.ycombinator.com/y18.svg",
+        desc: "内容聚焦于科技、创业、编程以及其他与极客文化相关的话题",
+        link: "https://news.ycombinator.com/"
+      },
+      {
+        title: "Product Hunt",
+        icon: "https://ph-static.imgix.net/ph-favicon-brand-500.ico?auto=format",
+        desc: "一个社区驱动的产品榜单，汇集了全球最新的科技产品、应用、工具和创意项目",
+        link: "https://www.producthunt.com/"
+      },	    
       {
         title: "V2EX",
         icon: "https://www.v2ex.com/static/icon-192.png",
